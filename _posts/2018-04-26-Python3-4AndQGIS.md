@@ -12,3 +12,8 @@ Python:
 
 QGIS:
 ![alt text](/img/CivilWarMap_Allacher_1002773.jpeg)
+
+
+Points:
+
+[Download here](/_data/7726.jpg.points)
