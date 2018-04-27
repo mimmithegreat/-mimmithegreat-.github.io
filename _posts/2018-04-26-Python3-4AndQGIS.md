@@ -11,4 +11,4 @@ Python:
 ![alt text](/img/homeworkPython_Allacher_1002773.jpg)
 
 QGIS:
-![alt text](https://github.com/mimmithegreat/mimmithegreat.github.io/blob/master/img/CivilWarMap_Allacher_1002773.jpeg)
+![alt text](/img/CivilWarMap_Allacher_1002773.jpeg)
