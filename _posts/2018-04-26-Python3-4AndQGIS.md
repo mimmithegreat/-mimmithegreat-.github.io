@@ -15,5 +15,4 @@ QGIS:
 
 
 Points:
-
-[Download here](/_data/7726.jpg.points)
+<a href="/_data/7726.jpg.points">Download here</a>
