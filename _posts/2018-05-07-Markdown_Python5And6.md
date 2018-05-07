@@ -16,8 +16,8 @@ Note: both commande lines didn´t work. So my modified command in Powershell is 
  
  here is the download for the files- markdown, pdf, docx, and html
  
- <a href="/img/main.md" Download md</a>
- <a href="/img/main.pdf" Download pdf</a>
-  <a href="/img/main.docx" Download doc</a>
-   <a href="/img/biblio.bib" Download Bibliography</a>
+ <a href="/img/main.md" download> Download md</a>
+ <a href="/img/main.pdf" download> Download pdf</a>
+  <a href="/img/main.docx" download> Download doc</a>
+   <a href="/img/biblio.bib" download> Download Bibliography</a>
  
