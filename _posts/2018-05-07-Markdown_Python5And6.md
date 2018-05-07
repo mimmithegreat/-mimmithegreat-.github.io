@@ -19,5 +19,6 @@ Note: both commande lines didn´t work. So my modified command in Powershell is 
  <a href="/img/main.md" download> Download md</a>
  <a href="/img/main.pdf" download> Download pdf</a>
   <a href="/img/main.docx" download> Download doc</a>
+    <a href="/img/main.html" download> Download html</a>
    <a href="/img/biblio.bib" download> Download Bibliography</a>
  
