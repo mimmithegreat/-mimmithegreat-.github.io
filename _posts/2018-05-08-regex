@@ -1,0 +1,27 @@
+---
+layout: post
+title: Regular Expressions
+---
+
+# Solutions
+
+1.
+
+\b((M[uao`']+mm?[ae]r?) ([aAeE][lI][- ])?([GKQ][h]?[au][dthz']+[aā]f+[iīy]))\b
+
+2. 
+
+\b([IiEe][ṣs][bfp]|[SsHh][ei][sp]+|[Nn]esf-e [Jj])([aā]h[āa]n)\b
+
+3. ^\t[\w+ (Askin)], ([\w (Leon)]+)$
+    /$2 $1/
+
+
+4. 
+Vienna|Graz|Linz|Salzburg|Innsbruck|Klagenfurt|Villach|Wels|Sankt Pölten|Dornbirn|Wiener Neustadt|Steyr|Feldkirch|Bregenz|Leonding|Klosterneuburg|Baden bei Wien|Wolfsberg|Leoben|Krems|Traun|Amstetten|Lustenau|Kapfenberg|Mödling|Hallein|Kufstein|Traiskirchen|Schwechat|Braunau am Inn|Stockerau|Saalfelden|Ansfelden|Tulln|Hohenems|Spittal an der Drau|Telfs|Ternitz|Perchtoldsdorf|Feldkirchen|Bludenz|Bad Ischl|Eisenstadt|Schwaz|Hall in Tirol|Gmunden|Wörgl|Wals-Siezenheim|Marchtrenk|Bruck an der Mur|Sankt Veit an der Glan|Korneuburg|Neunkirchen|Hard|Vöcklabruck|Lienz|Rankweil|Hollabrunn|Enns|Brunn am Gebirge|Ried im Innkreis|Bad Vöslau|Waidhofen|Knittelfeld|Trofaiach|Mistelbach|Zwettl|Völkermarkt|Götzis|Sankt Johann im Pongau|Gänserndorf|Gerasdorf bei Wien|Ebreichsdorf|Bischofshofen|Groß-Enzersdorf|Seekirchen am Wallersee|Sankt Andrä
+
+!<---Well, Sankt Andrä is not a major or important City, but here we go again--->
+
+5.
+
+\b([\w ]+) \(Lower Austria\)
