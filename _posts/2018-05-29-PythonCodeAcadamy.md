@@ -5,10 +5,13 @@ title: Code Acadamy
 
 # Python Screenshots
 
-Unfortunatly it has come to my attention, that last time, I forgot to include the screenshot of the lessons 7 and 8.
-So here with delay, is the screenshot for the lessons 7 and 8.
-Also down below, the screenshot for the lessons 9 and 10.
+I´ve decided to make new screenshots and put them all in one updated post.
 
-![alt text](/img/Python7-8_Allacher_1002773.jpg)
+![Python 1-2](/img/python1-2.jpg)
+![Python 3-4](/img/python3-4.jpg)
+![Python 5-7](/img/python5-7.jpg)
+![Python 8-10](/img/python8-10.jpg)
+![Python 11-12](/img/python11-12.jpg)
 
-![alt text](/img/Python9-10_Allacher_1002773.jpg)
+
+
