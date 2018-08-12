@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: A Testiment of Lack of Knowledge
+title: Digital Humanities Course Project
 
 # Short description of your site
 description: I forgot this is a serios course so I yoused my dnd name, sorry bout that!
@@ -39,7 +39,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#f7e6ff"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
